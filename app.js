@@ -3,7 +3,7 @@ import express from "express";
 import cors from "cors";
 import bodyParser from "body-parser";
 
-const resend = new Resend("re_3YgGSjYD_MVvprvTumCuSyLDrBFEWkYMs");
+const resend = new Resend("re_CtWi8aHs_GfodwMWeEkv6hyzkZqiezvSf");
 
 const app = express();
 app.use(
